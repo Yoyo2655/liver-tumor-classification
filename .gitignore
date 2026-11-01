@@ -1,14 +1,4 @@
 # Sensitive or restricted datasets and derived outputs
-/dataset/
-/data/
-/data_split/
-/models/
-/reports/
-/plot/
-/photos/
-*.xlsx
-*.xls
-*.csv
 *.joblib
 *.pkl
 *.pdf
