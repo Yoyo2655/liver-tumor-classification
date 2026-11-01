@@ -1,8 +1,7 @@
 # Liver Tumor Classification from Radiomic Features
 
-**CentraleSupélec — academic group project (2025–2026)**
+**CentraleSupélec academic ML group project (2025–2026)**
 
-> **Academic research prototype only. Not a medical device and not suitable for clinical diagnosis.**
 
 ## Overview
 
@@ -41,8 +40,6 @@ The scripts are **not runnable out of the box**: several expect restricted sourc
 
 ## Privacy, authorship and publication
 
-This is a **collaborative CentraleSupélec student project**, not an individual project. The code has been preserved as provided, rather than rewritten or claimed as solely authored by the repository owner. Specific individual contributions should be described separately and accurately.
-
-Before making this repository public, obtain the required permissions from the other contributors and the institution/data owner. Do not upload patient data, extracted features, patient-level reports, trained models, original Git history, or institutional documents without authorization.
+This is a **collaborative CentraleSupélec student project**, not an individual project. 
 
 No license is granted here; reuse rights require confirmation from the rights holders.
