@@ -1,5 +1,5 @@
 # Sensitive or restricted datasets and derived outputs
-*.joblib
+joblib
 *.pkl
 *.pdf
 *.dcm
