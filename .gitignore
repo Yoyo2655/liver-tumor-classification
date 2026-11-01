@@ -1,0 +1,25 @@
+# Sensitive or restricted datasets and derived outputs
+/dataset/
+/data/
+/data_split/
+/models/
+/reports/
+/plot/
+/photos/
+*.xlsx
+*.xls
+*.csv
+*.joblib
+*.pkl
+*.pdf
+*.dcm
+*.nii
+*.nii.gz
+
+# Local tooling
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
